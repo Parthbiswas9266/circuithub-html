@@ -66,4 +66,5 @@ Future versions will progressively introduce:
 
 **Parth Biswas**
 
-This project is part of my journey toward becoming a full-stack software developer.
+This project is part of my journey toward becoming a full-stack software developer. No AI is used to write codes on this Repo.
+
