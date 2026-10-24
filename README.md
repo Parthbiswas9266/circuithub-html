@@ -22,7 +22,7 @@ The website currently contains:
 
 - HTML5
 
-No CSS or JavaScript was used in the initial version of this project.
+- No CSS or JavaScript was used in the initial version of this project.
 
 ## 📚 HTML Concepts Practiced
 
